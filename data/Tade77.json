@@ -1,0 +1,34 @@
+{
+  "name": "Adekeye Taofeeq | code77(he/him)",
+  "bio": "Open Source Contributor | HTML| CSS | Javascript | Reactjs | Tailwind | Styled Component | Redux | Git ",
+ "links": [
+    {
+      "group": "Socials Primary",
+      "name": "Twitter: Follow me",
+      "url": "https://twitter.com/code77",
+      "icon": "FaTwitter",
+      "color": "#00ACEE"
+    },
+   {
+      "group": "Socials Primary",
+      "name": "Linkedin: Connect with me",
+      "url": "https://linkedin.com/in/adekeye-taofeeq-879b6aba",
+      "icon": "FaLinkedin",
+      "color": "#00ACEE"
+    },
+   {
+      "group": "Socials Primary",
+      "name": "Github: Follow me",
+      "url": "https://github.com/Tade77",
+      "icon": "FaGithub",
+      "color": "#00ACEE"
+    },
+   {
+      "group": "Socials Primary",
+      "name": "Facebook: Let's connect",
+      "url": "https://facebook.com/engineer40",
+      "icon": "FaFacebook",
+      "color": "#00ACEE"
+    },
+  ]
+}
